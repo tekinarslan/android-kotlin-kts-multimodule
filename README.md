@@ -7,7 +7,6 @@
 - Dependencies managed via [`buildSrc`](buildSrc).
 - Common gradle scripts for [`android-library`](buildSrc/src/main/kotlin/commons/android-library.gradle.kts)
 - 3 Sample modules ([`Android app`](app), [`Android library`](core), [`Kotlin library`](user)).
-- Kotlin Static Analysis using [`ktlint`](https://github.com/pinterest/ktlint) & [`detekt`](https://github.com/detekt/detekt).
 - Gradle 7.3.3 / Android Plugin 7.1.1
 
 ## TODOs
